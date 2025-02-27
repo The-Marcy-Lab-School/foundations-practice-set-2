@@ -1,0 +1,17 @@
+{
+  "testScores": {
+    "Arrow Function Tests": {
+      "ArFuTe1": 1
+    }
+  },
+  "idToTestNameHash": {
+    "ArFuTe1": "Arrow Function Tests add: should return the sum of two numbers"
+  },
+  "testNameToIdHash": {
+    "Arrow Function Tests add: should return the sum of two numbers": "ArFuTe1"
+  },
+  "humanReadable": {
+    "Arrow Function Tests": "1/1",
+    "finalTestScore": "FINAL SCORE: 1/1"
+  }
+}
